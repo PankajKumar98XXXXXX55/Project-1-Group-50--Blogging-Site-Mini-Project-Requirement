@@ -1,9 +1,4 @@
-# project-3-internshipGroup50
-
-
-# Uranium
-
-Repository for backend cohort - Uranium
+##Repository for backend cohort - Uranium
 
 ## Blogging Site Mini Project Requirement
 
